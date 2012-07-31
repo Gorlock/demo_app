@@ -2,4 +2,4 @@
 
 This is the demo application for the [*Ruby on Rails Tutorial*](http://railstutorial.org/) by [Michel Hartl](http://michaelhartl.com/).
 
-[Demo Application](#)
+[Demo Application](http://enigmatic-shelf-5698.herokuapp.com/users)
